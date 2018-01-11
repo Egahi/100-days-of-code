@@ -6,4 +6,11 @@
 
 **Thoughts:** Not really sure if I'll find time to commit everyday but I'll just take the challenge as means of building self discipline.
 
-**Link to work:** 
+
+
+### Day 1: January 11th, 2018
+
+**Today's Progress**: Implemented guess my number
+**Thoughts:** I'm feeling accomplised right now, this was an easy tast though. I look forward to when I'll reach day 100. 
+
+**Link to work:** https://github.com/Egahi/100-days-of-code/blob/master/guessMyNumber.cpp
