@@ -13,4 +13,14 @@
 **Today's Progress**: Implemented guess my number
 **Thoughts:** I'm feeling accomplised right now, this was an easy tast though. I look forward to when I'll reach day 100. 
 
-**Link to work:** https://github.com/Egahi/100-days-of-code/blob/master/guessMyNumber.cpp
+**Link to work:** https://github.com/Egahi/100-days-of-code/blob/master/projects/guessMyNumber.cpp
+
+
+
+### Day 2: January 12th, 2018
+
+**Today's Progress**: Implemented factorialX
+**Thoughts:** Being committed to a course keeps me accountable, couldn't get my mind off this challenge until I committed the project
+
+**Link to work:** 
+https://github.com/Egahi/100-days-of-code/blob/master/projects/factorialX.cpp
