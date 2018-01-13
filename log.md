@@ -22,5 +22,13 @@
 **Today's Progress**: Implemented factorialX
 **Thoughts:** Being committed to a course keeps me accountable, couldn't get my mind off this challenge until I committed the project
 
-**Link to work:** 
-https://github.com/Egahi/100-days-of-code/blob/master/projects/factorialX.cpp
+**Link to work:** https://github.com/Egahi/100-days-of-code/blob/master/projects/factorialX.cpp
+
+
+
+### Day 3: January 13th, 2018
+
+**Today's Progress**: Implemented palindromeX
+**Thoughts:** today's project just taught me the danger of redundant knowlegde. Put whatever you're learning into practice, that's the best way to retain and perfect knowlege
+
+**Link to work:** https://github.com/Egahi/100-days-of-code/blob/master/projects/palindromeX.cpp
