@@ -32,3 +32,21 @@
 **Thoughts:** today's project just taught me the danger of redundant knowlegde. Put whatever you're learning into practice, that's the best way to retain and perfect knowlege
 
 **Link to work:** https://github.com/Egahi/100-days-of-code/blob/master/projects/palindromeX.cpp
+
+
+
+### Day 4: January 14th, 2018
+
+**Today's Progress**: Implemented a dictionary using hashtables and linked lists
+**Thoughts:** 
+
+**Link to work:**
+
+
+
+### Day 5: January 16th, 2018
+
+**Today's Progress**: Started work on vowel count
+**Thoughts:** some simple concepts got me stuck here, I've got to revise some basic stuffs especially getting input from a user in c++
+
+**Link to work:** https://github.com/Egahi/100-days-of-code/blob/master/projects/vowelCount.cpp
