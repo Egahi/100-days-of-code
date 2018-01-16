@@ -1,8 +1,8 @@
 /**
  * vowelCount.cpp
  *
- * this program counts the number of occurrences of 
- * vowel letters in a string.
+ * this program reports the number of occurrences of 
+ * the english vowel letters in a string.
  *
  * @s_egahi
  *
@@ -10,6 +10,10 @@
  */
 
 #include <iostream>
+
+#define DIFF 32
+
+int strlength(char input[46]);
 
 using namespace std;
 
@@ -20,15 +24,23 @@ int main(void)
     cout << "INPUT: ";
     cin.getline(input, '\n');
     
+    // counter
     int count[6] = {0};
     
-    for (int i = 0, j = sizeof(input); i < j; i++)
+    // string length
+    int length = strlength(input);
+    
+    for (int i = 0; i < length; i++)
     {
+        // identify upper case characters
         if (isupper(input[i]))
         {
-            tolower(input[i]);
+            // convert to lower case
+            input[i] += DIFF;
         }
         
+        // increament correspondingn counter index value for each
+        // vowel letter found
         switch (input[i])
         {
             case 'a':
@@ -43,16 +55,29 @@ int main(void)
                 count[4]++; break;
         }
     }
-            
+
     cout << "\'a\' occured " << count[0] << " time(s)\n";
-    
     cout << "\'e\' occured " << count[1] << " time(s)\n";
-    
     cout << "\'i\' occured " << count[2] << " time(s)\n";
-    
     cout << "\'o\' occured " << count[3] << " time(s)\n";
-            
     cout << "\'u\' occured " << count[4] << " time(s)\n";
     
+    // success
     return 0;
+}
+
+/**
+ * calculates the length of a string and returns the value
+ */
+int strlength(char input[46])
+{
+    int len = 0;
+
+    for (int i = 0; input[i] != '\0'; i++)
+    {
+        cout << len << " + 1 for " <<input[i] << endl;
+        len++;
+    }
+
+    return len;
 }
