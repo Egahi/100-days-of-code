@@ -22,7 +22,7 @@ int main(void)
     char input[46];
     
     cout << "INPUT: ";
-    cin.getline(input, '\n');
+    cin.getline(input, 46,'\n');
     
     // counter
     int count[6] = {0};
