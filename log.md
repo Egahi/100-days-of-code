@@ -3,50 +3,53 @@
 ### Day 0: January 10th, 2018
 
 **Today's Progress**: Set up my repo for the 100 days of code challenge
-
 **Thoughts:** Not really sure if I'll find time to commit everyday but I'll just take the challenge as means of building self discipline.
-
 
 
 ### Day 1: January 11th, 2018
 
 **Today's Progress**: Implemented guess my number
 **Thoughts:** I'm feeling accomplised right now, this was an easy tast though. I look forward to when I'll reach day 100. 
-
 **Link to work:** https://github.com/Egahi/100-days-of-code/blob/master/projects/guessMyNumber.cpp
-
 
 
 ### Day 2: January 12th, 2018
 
 **Today's Progress**: Implemented factorialX
 **Thoughts:** Being committed to a course keeps me accountable, couldn't get my mind off this challenge until I committed the project
-
 **Link to work:** https://github.com/Egahi/100-days-of-code/blob/master/projects/factorialX.cpp
-
 
 
 ### Day 3: January 13th, 2018
 
 **Today's Progress**: Implemented palindromeX
 **Thoughts:** today's project just taught me the danger of redundant knowlegde. Put whatever you're learning into practice, that's the best way to retain and perfect knowlege
-
 **Link to work:** https://github.com/Egahi/100-days-of-code/blob/master/projects/palindromeX.cpp
-
 
 
 ### Day 4: January 14th, 2018
 
 **Today's Progress**: Implemented a dictionary using hashtables and linked lists
 **Thoughts:** 
-
-**Link to work:**
-
+**Link to work:** NA
 
 
-### Day 5: January 16th, 2018
+### Day 5: January 15th, 2018
 
 **Today's Progress**: Started work on vowel count
 **Thoughts:** some simple concepts got me stuck here, I've got to revise some basic stuffs especially getting input from a user in c++
-
 **Link to work:** https://github.com/Egahi/100-days-of-code/blob/master/projects/vowelCount.cpp
+
+
+### Day 6: January 16th, 2018
+
+**Today's Progress**: Implemented vowel count and started work on compressor.
+**Thoughts:** its becoming almost natural to find time for coding, its becoming a habit!
+**Link to work:** https://github.com/Egahi/100-days-of-code/blob/master/projects/vowelCount.cpp
+
+
+### Day 7: January 17th, 2018
+
+**Today's Progress**: Took a straight dive into front-end-web development. Learnt the basics of TCP/IP, http, HTML, css, javascript and a few frameworks. Got my tools all set for the journey into web dev.
+**Thoughts** I think my learning curve has got alot flatter.
+**Link to work:** NULL
