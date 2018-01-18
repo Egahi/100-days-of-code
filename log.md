@@ -53,3 +53,9 @@
 **Today's Progress**: Took a straight dive into front-end-web development. Learnt the basics of TCP/IP, http, HTML, css, javascript and a few frameworks. Got my tools all set for the journey into web dev.
 **Thoughts** I think my learning curve has got alot flatter.
 **Link to work:** NULL
+
+
+### Day 8: January 18th, 2018
+**Today's progress**: Implemented a solution to compression (https://msft3c.com/preview/1/learn), learnt how to commit, push files and create pull requests using git commands from the command line.
+**Thoughts** It just keeps getting better! Git commands are awesome!
+**Link to work:** https://github.com/Egahi/msft_coding_challenge/tree/master/compression
