@@ -59,3 +59,23 @@
 **Today's progress**: Implemented a solution to compression (https://msft3c.com/preview/1/learn), learnt how to commit, push files and create pull requests using git commands from the command line.
 **Thoughts** It just keeps getting better! Git commands are awesome!
 **Link to work:** https://github.com/Egahi/msft_coding_challenge/tree/master/compression
+
+
+### Day 9; January 19th, 2018
+**Today's Progress**: Python for web! found my way into the world of python.
+**Thoughts**: Python's syntax is almost plain text! I see why it is preferred to C.
+
+
+### Day 10: January 20th, 2018
+**Today's progress**: Worked on google's hash code problem statement with my awesome team Rails!
+**Thoughts**: fancy tricks with loops and functions doesn't make a pro! I need to dive more into real life, identified IT problems.
+
+
+### Day 11: January 21st, 2018
+**Today's progress**: Tweaked an old project to fit a class pset. Re-implemented merge sort and brushed up on a few sorting algorthms.
+**Thoughts**: Gradually building my toolbox, soon I won't have to implement everything from scratch.
+
+
+### Day 12: January 22nd, 2018
+**Today's progress**: Walked a friend through implementing some projects and helped another debug his code.
+**Thoughts**: Debugging is so much fun when you spot the errors in seconds, else...
