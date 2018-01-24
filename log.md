@@ -87,7 +87,7 @@
 **Thoughts**: I think I'm in love with python!
 
 
-
 ### Day 14: January 24th, 2018
 **Today's progress**: Finished porting of credit implemented in C to python
 **Thoughts**: python should be made the lingua franca of the world.
+**Link to work**: https://github.com/Egahi/100-days-of-code/blob/master/projects/credit.py
