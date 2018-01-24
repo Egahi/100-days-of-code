@@ -1,3 +1,8 @@
+# credit.c
+# takes a card's number and prints the company
+# @s_egahi
+# this was credit
+
 cardNumber = 0
 
 while True:
@@ -13,7 +18,7 @@ if cardNumber // 10000000000000000 > 0:
 else:
     digitsSum = 0
     otherNumSum = 0
-    
+
     # selects the first four digits of card number
     digit16 = (cardNumber // 1000000000000000) % 10
     digit15 = (cardNumber // 100000000000000) % 10
