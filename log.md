@@ -79,3 +79,15 @@
 ### Day 12: January 22nd, 2018
 **Today's progress**: Walked a friend through implementing some projects and helped another debug his code.
 **Thoughts**: Debugging is so much fun when you spot the errors in seconds, else...
+
+
+
+### Day 13: January 23rd, 2018
+**Today's progress**: ported some projects I implemented in C to python
+**Thoughts**: I think I'm in love with python!
+
+
+
+### Day 14: January 24th, 2018
+**Today's progress**: Finished porting of credit implemented in C to python
+**Thoughts**: python should be made the lingua franca of the world.
