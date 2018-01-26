@@ -9,7 +9,7 @@
 ### Day 1: January 11th, 2018
 
 **Today's Progress**: Implemented guess my number
-**Thoughts:** I'm feeling accomplised right now, this was an easy tast though. I look forward to when I'll reach day 100. 
+**Thoughts:** I'm feeling accomplised right now, this was an easy tast though. I look forward to when I'll reach day 100.
 **Link to work:** https://github.com/Egahi/100-days-of-code/blob/master/projects/guessMyNumber.cpp
 
 
@@ -30,7 +30,7 @@
 ### Day 4: January 14th, 2018
 
 **Today's Progress**: Implemented a dictionary using hashtables and linked lists
-**Thoughts:** 
+**Thoughts:**
 **Link to work:** NA
 
 
@@ -91,3 +91,16 @@
 **Today's progress**: Finished porting of credit implemented in C to python
 **Thoughts**: python should be made the lingua franca of the world.
 **Link to work**: https://github.com/Egahi/100-days-of-code/blob/master/projects/credit.py
+
+
+
+### Day 15: January 25th, 2018
+**Today's progress**: Implemented vigenere.py
+**Thoughts**: crytpography is cool, I should read up more in that field
+**Link to work**: https://github.com/Egahi/100-days-of-code/blob/master/projects/vigenere.py
+
+
+### Day 16: January 25th, 2018
+**Today's progress**: Implemented crack.py
+**Thoughts**: Reading a language's documentation and to understand and use methods is much less stressful than I thought it'll be.
+**Link to work**: https://github.com/Egahi/100-days-of-code/blob/master/projects/crack.py
