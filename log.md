@@ -102,5 +102,5 @@
 
 ### Day 16: January 25th, 2018
 **Today's progress**: Implemented crack.py
-**Thoughts**: Reading a language's documentation and to understand and use methods is much less stressful than I thought it'll be.
+**Thoughts**: Reading a language's documentation to understand and use methods is much less stressful than I thought it'll be.
 **Link to work**: https://github.com/Egahi/100-days-of-code/blob/master/projects/crack.py
