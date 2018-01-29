@@ -70,9 +70,9 @@ exit(0)
 '''
 anushree:50xcIMJ0y.RXo = YES
 brian:50mjprEcqC/ts = CA
-bjbrown:50GApilQSG3E2 =
+bjbrown:50GApilQSG3E2 = UPenn
 lloyd:50n0AAUD.pL8g = lloyd
-malan:50CcfIk1QrPr6 =
+malan:50CcfIk1QrPr6 = maybe
 maria:509nVI8B9VfuA = TF
 natmelo:50JIIyhDORqMU = nope
 rob:50JGnXUgaafgc = ROFL
