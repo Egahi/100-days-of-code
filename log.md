@@ -139,3 +139,9 @@
 ### Day 23: February 3rd, 2018
 **Today's Progress:** Attended @andela #ALCwithMicrosoft first meetup and started work on pharmacy.cpp
 **Thoughts:** Was expecting something more fun and filled with swags and stickers but it turned out to be an introduction to the introducion to web development.
+
+
+### Day 24: February 4th, 2018
+**Today's progress**: Implemented Pharmacy
+**Thoughts:** I super happy with myself right now 'cos I just implemented my first comprehensive project using classes in C++ and I like it. Oh And I thinkI just got an inspiration, a new name MR. Debugger!
+**Link to Work**: https://github.com/Egahi/100-days-of-code/tree/master/projects/pharmacy
