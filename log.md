@@ -104,3 +104,38 @@
 **Today's progress**: Implemented crack.py
 **Thoughts**: Reading a language's documentation to understand and use methods is much less stressful than I thought it'll be.
 **Link to work**: https://github.com/Egahi/100-days-of-code/blob/master/projects/crack.py
+
+
+### Day 17: January 27th, 2018
+**Today's progress**: Attended @Techpointdotng #TechpointBuild It was amazing! I was particularly wowed by @FootwearAcademy pitch! amazing concept, amazing presentation!
+**Thoughts**: You've got to step out once in a while and see amazing innovations
+
+
+### Day 18: January 28th, 2018
+**Today's progress**: Did some work on HTML tags and elements.
+**Thoughts:** Web dymistifed! Now I can see inside the black box! I look at Web pages and what I see are tags and angle brackets!
+
+
+### Day 19: January 29th, 2018
+**Today's progress**: More work on HMTL
+**Thoughts:** I had the most hectic week in a long while, had to squeeze out time just so I don't fail the challenge
+
+
+### Day 20: January 30th, 2018
+**Today's progress**: Got to know about HMTL forms and the various tweaks
+**Thoughts:** Its the coolest tag I've worked with thus far. Online I.D.Es are awesome! code from anywhere non-stop. @CodePen @cs50 ide been helping so far though.
+
+
+### Day 21: January 31st, 2018
+**Today's progress**: HTML attributes!
+**Thoughts:** they literally transform an element, it's like a superhero suiting up! And it's high I rolled out another project, got to implement stuff for it to stick.
+
+
+### Day 22: February 2nd, 2018
+**Today's progress:** Tried to crash learn css and javascript in a rush to meet up with #ALCwithMicrosoft 2 weeks challenge deadline.
+**Thoughts:** You can rush your meal or speed up on the highway but in this buisness, it's a different story entirely, #noShortcuts
+
+
+### Day 23: February 3rd, 2018
+**Today's Progress:** Attended @andela #ALCwithMicrosoft first meetup and started work on pharmacy.cpp
+**Thoughts:** Was expecting something more fun and filled with swags and stickers but it turned out to be an introduction to the introducion to web development.
