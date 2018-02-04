@@ -143,5 +143,5 @@
 
 ### Day 24: February 4th, 2018
 **Today's progress**: Implemented Pharmacy
-**Thoughts:** I super happy with myself right now 'cos I just implemented my first comprehensive project using classes in C++ and I like it. Oh And I thinkI just got an inspiration, a new name MR. Debugger!
+**Thoughts:** I'm super happy with myself right now 'cos I just implemented my first comprehensive project using classes in C++ and I like it. Oh And I thinkI just got an inspiration, a new name MR. Debugger!
 **Link to Work**: https://github.com/Egahi/100-days-of-code/tree/master/projects/pharmacy
