@@ -145,3 +145,23 @@
 **Today's progress**: Implemented Pharmacy
 **Thoughts:** I'm super happy with myself right now 'cos I just implemented my first comprehensive project using classes in C++ and I like it. Oh And I thinkI just got an inspiration, a new name MR. Debugger!
 **Link to Work**: https://github.com/Egahi/100-days-of-code/tree/master/projects/pharmacy
+
+
+### Day 25: February 5th, 2018
+**Today's Progress**: Taught a tutorial on object oriented programming in C++
+**Thoughts:** teaching a concept solidifies your knowledge of it.
+
+
+### Day 26: February 6th, 2018
+**Today's Progress**: More work on HTML, learnt about scalable vector graphics (SVG) and did some work with figure and figcaption tags
+**Thoughts:** Knowledge indeed is power, and in web design the more tags you know, the more cool your webpage
+
+
+### Day 27: February 7th, 2018
+**Today's Progress**: Learnt how to embed vidoes and audio files in a webpage
+**Thoughts:** It's a much more simplier than I though it'll be.
+
+
+### Day 28 (February 8th)
+**Today's Progress**: More HTML, worked with variuos elements of video tag.
+**Thoughts:** Now I know how it's done! What I tell myself when I open webpages.
