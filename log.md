@@ -162,6 +162,71 @@
 **Thoughts:** It's a much more simplier than I though it'll be.
 
 
-### Day 28 (February 8th)
+### Day 28 February 8th, 2018
 **Today's Progress**: More HTML, worked with variuos elements of video tag.
 **Thoughts:** Now I know how it's done! What I tell myself when I open webpages.
+
+
+### Day 29 February 9th, 2018
+**Today's Progress**: Spent some hours trying to unravel #hashCode2018 by @google problem statement
+**Thoughts:** It all looks so hard until you give some deep thought.
+
+
+### Day 30 February 10th, 2018
+**Today's Progress**: Spent some hours trying to implement a solution to #hashCode2018 by @google problem statement
+**Thoughts:** the closer you get to a solution, the more times you hit a dead end. 
+Code, run, debug repeat!
+
+
+### Day 31 February 11th, 2018
+**Today's Progress**: Tried to implement the progress I've made so far in c in python as I hit yet another deadend.
+#hashCode2018 
+**Thoughts:** Code, run, debug repeat!
+
+
+### Day 32 February 12th, 2018
+**Today's progress**: Took a break from screen and keyboard to do some serious analysis with paper and pen! Made some progress.
+**Thoughts:** paper and pen works much faster than abstract imagination and cluelessly staring at a screen.
+
+
+### Day 33 February 13th, 2018
+**Today's Progress**: Did heavy work on #hashCode2018 problem statement, but didn't get the expected output though.
+**Thoughts:** I didn't come this far just to give up, I must see the end of this journey! I think it's time to demystify machine learning.
+
+
+### Day 34 Februrary 15th, 2018
+**Today's Progress**: Eureka!!! @team_RAILS 
+Today we celebrate! We implemented our first working algorithm without error! #hashCode2018
+**Thoughts:** success is sweeeeeet!
+
+
+### Day 35 February 17th, 2108
+**Today's Progress**: More work on #hashCode2018 problem statement
+**Thoughts:** can't this stuff just work perfectly!
+
+
+### Day 36 Februrary 18th, 2018
+**Today's Progress**: More work on #hashCode2018 
+Made two major updates to my solution.
+**Thoughts:** progress is slow and frustrating but I sense a major breakthrough around the corner!
+
+
+### Day 37 February 19th, 2018
+**Today's Progress**: Joined #hashCode2018 prep live stream and got more inspirations then tried to optimise my solution.
+**Thoughts:** After the most steep curve, everything starts falling into place, you've just got to sit tight and enjoy the ride down hill!
+
+
+### Day 38 February 20th, 2018
+**Todays's Progress**: Another mile stone reached! This morining, my algorithm was able to cut all possible slices! Now I just need to eliminate overlaps! 
+**Thoughts:** I am about to hit gold!
+One final lap!
+So I just optimised my algorithm and it's smart, all that's left is to make it super smart!
+**Thoughts:** I am literally overjoyed I feel like I am about to receive an award on a internation stage!
+
+·
+### Day 39 Februrary 21st, 2018
+**Todays's Progress**: Gold! Gold!! Gold!!!
+Finished up my solution to #hashCode2018 problem statement!
+**Thoughts:** Success is sweet! Long live our terminals! 
+git commit -m "done and dusted"
+**Link:** https://github.com/Egahi/hashCode
