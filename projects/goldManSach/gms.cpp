@@ -66,18 +66,18 @@ int main(int argc, char *argv[])
             palindromeCheck(tweets[i], subSize, j, count);
         }
 
+        strncpy(verdict[i].symbol, &tweets[i][subSize - 3], 3);
+        verdict[i].symbol[3] = '\0';
+
         // palindron found
         if (count)
         {
-            strncpy(verdict[i].symbol, &tweets[i][subSize - 3], 3);
-            verdict[i].symbol[3] = '\0';
-
             verdict[i].length = count;
         }
 
         else
         {
-            strcpy(verdict[i].symbol, "n/a");
+            // strcpy(verdict[i].symbol, "n/a");
             verdict[i].length = count;
         }
     }
@@ -96,23 +96,23 @@ int main(int argc, char *argv[])
 
         if (verdict[i].length >= 1 && verdict[i].length <= 10)
         {
-            outfile << " Possible\n";
+            outfile << " " << verdict[i].length << " Possible\n";
         }
 
         else if (verdict[i].length >= 11 && verdict[i].length <= 40)
         {
-            outfile << " Probable\n";
+            outfile << " " << verdict[i].length << " Probable\n";
         }
 
         else if (verdict[i].length >= 41 && verdict[i].length <= 150)
         {
-            outfile << " Escalate\n";
+            outfile <<  " " << verdict[i].length << " Escalate\n";
         }
 
         // ignore
         else
         {
-            outfile << endl;
+            outfile <<  " " << verdict[i].length << " Ignore\n";
         }
     }
 

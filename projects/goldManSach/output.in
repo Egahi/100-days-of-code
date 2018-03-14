@@ -1,3 +1,29 @@
-SVW Possible
-IVV Escalate
-XYZ Probable
+DJI Possible
+SPY Probable
+RWR Escalate
+IHF Ignore
+CHY Ignore
+IOT Possible
+TTY Escalate
+TTT Ignore
+OUT Probable
+YYV Probable
+SPY Ignore
+IMM Probable
+BAN Possible
+PIK Ignore
+
+DJI 6 Possible
+SPY 20 Probable
+RWR 80 Escalate
+IHF 0 Ignore
+CHY 0 Ignore
+IOT 3 Possible
+TTY 120 Escalate
+TTT 0 Ignore
+OUT 12 Probable
+YYV 39 Probable
+SPY 0 Ignore
+IMM 39 Probable
+BAN 6 Possible
+PIK 0 Ignore
