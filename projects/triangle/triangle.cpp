@@ -35,7 +35,7 @@ int main(void)
         a = c;
         c = temp;
     }
-    else if (b > c)
+    if (b > c)
     {
         // b is greater than c swap them
         int temp = b;

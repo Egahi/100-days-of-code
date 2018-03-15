@@ -2,10 +2,10 @@ Algorithm
 0. Prompt user to input triangle dimensions, a, b, c
 1. if a is greater than c
 	swap the values of a and c
-2. else if b is greater than c
+2. if b is greater than c
 	swap the values of b and c
-3. If the triagle dimensions obey pythagoras theorem
-	It is a right ngle triangle
+3. If a^2 + b^2 = c^2 (pythagoras theorem)
+	It is a right angle triangle
 4. else
 	It is not
 5. circumference = a + b + c
